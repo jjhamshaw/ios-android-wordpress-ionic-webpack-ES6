@@ -29,6 +29,14 @@ npm run devserver
 npm run runAndroid
 
 # iOS
+
+## dependencies
+
+npm install -g ios-sim
+npm install -g ios-deploy
+
+## Run
+
 npm run runIosEmulator
 npm run runIosDevice
 ```
